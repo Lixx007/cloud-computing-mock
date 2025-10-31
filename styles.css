@@ -1,0 +1,38 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(120deg, #0072ff, #00c6ff);
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.3);
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  background: rgba(255, 255, 255, 0.1);
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 800px;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+ul {
+  line-height: 1.8;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.3);
+  font-size: 0.9em;
+}
+
